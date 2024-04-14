@@ -1,0 +1,8 @@
+{
+  "useSmtp": false,
+  "host": "stmp.hotmail.com",
+  "port": 465,
+  "username": "TEJAS Y BARRO",
+  "password": "Tejas74637463",
+  "recipientEmail": "tejasybarro@hotmail.com"
+}
